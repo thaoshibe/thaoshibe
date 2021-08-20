@@ -1,6 +1,4 @@
-### 🚀 Such Wow, Very Hello ✨ Me Shibe ▼・ᴥ・▼
-
-Just kidding, I'm Thao ( ͡° ͜ʖ ͡°)
+Hello there, I'm Thao ( ͡° ͜ʖ ͡°)
 
 - 🔭 I’m currently working at [VinAI Research](https://www.vinai.io)
 - 📫 How to reach me: **thao.ntp0414 at gmail.com** | kimtuthap97 at gmail.com | [facebook](https://www.facebook.com/kimtuthap97) | [linkedin](https://www.linkedin.com/in/kimtuthap97/) | [twitter](https://twitter.com/kimtuthap97)
