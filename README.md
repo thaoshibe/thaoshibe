@@ -1,4 +1,4 @@
-Hello there, I'm [Thao Nguyen (Thao Shibe)](https://thaoshibe.github.io) 🇻🇳,
+Hello there, I'm [Thao Nguyen (Shibe)](https://thaoshibe.github.io) 🇻🇳,
 
 From 9-to-5, I'm a graduate student @ [UW- Madison 🦡](https://www.cs.wisc.edu/) 🧐.
 
