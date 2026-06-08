@@ -1,6 +1,4 @@
-hi there, i'm [Thao Nguyen](https://thaoshibe.github.io) (.❛ ᴗ ❛.).
-
-i'm a cs phd student @ [WisconsinAIVision](https://github.com/WisconsinAIVision).
+hi there, i'm [Thao Nguyen](https://thaoshibe.github.io) (.❛ ᴗ ❛.). i'm a cs phd student @ [WisconsinAIVision](https://github.com/WisconsinAIVision).
 
 ✦ generally i'm intersted in personalized AI, especially for multimodal-models:
 - [camroll](https://github.com/thaoshibe/camroll) `arxiv'26`: personal AI Agent for camera roll VQA &nbsp; ![Stars](https://img.shields.io/github/stars/thaoshibe/camroll?style=social)
