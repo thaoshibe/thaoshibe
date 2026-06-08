@@ -16,9 +16,9 @@ sometimes, i proposed to do cognitive-science-inspired project (e.g., [relsim](h
 - [awesome-personalized-lmms](https://github.com/thaoshibe/awesome-personalized-lmms) &nbsp; ![Stars](https://img.shields.io/github/stars/thaoshibe/awesome-personalized-lmms?style=social)
 
 ✦ ...and when i told my advisor i made no progress, i was actually doing...
-- [viet-wics](https://github.com/viet-wics/viet-wics.github.io) &nbsp; ![Stars](https://img.shields.io/github/stars/viet-wics/viet-wics.github.io?style=social)
-- [chugiai-zh-en-vi](https://github.com/thaoshibe/chugiai-zh-en-vi) &nbsp; ![Stars](https://img.shields.io/github/stars/thaoshibe/chugiai-zh-en-vi?style=social)
-- [cs-conference-posters](https://github.com/thaoshibe/cs-conference-posters) &nbsp; ![Stars](https://img.shields.io/github/stars/thaoshibe/cs-conference-posters?style=social)
+- [viet-wics](https://github.com/viet-wics/viet-wics.github.io) 🇻🇳👩✨
+- [chugiai-zh-en-vi](https://github.com/thaoshibe/chugiai-zh-en-vi) 🇨🇳🔄🇻🇳
+- [cs-conference-posters](https://github.com/thaoshibe/cs-conference-posters) 🏞️📰👩🏻‍🏫
 
 ---
 more about me, please visit [https://thaoshibe.github.io](https://thaoshibe.github.io). thank you ✨
