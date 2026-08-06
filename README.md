@@ -1,6 +1,6 @@
 hi there, i'm [Thao Nguyen](https://thaoshibe.github.io) (.❛ ᴗ ❛.). i'm a cs phd student @ [WisconsinAIVision](https://github.com/WisconsinAIVision).
 
-✦ generally i'm intersted in personalized AI, especially for multimodal-models:
+✦ generally i'm intersted in Personalization | AI Agent | Multimodal Mododels. recently i'm really deep into Personal (Multimodal) AI Agent:
 - [camroll](https://github.com/thaoshibe/camroll) `arxiv'26`: personal AI Agent for camera roll VQA
 - [yo'chameleon](https://thaoshibe.github.io/YoChameleon/) `cvpr'25`: personalized mllm for text and image generation
 - [yo'llava](https://WisconsinAIVision.github.io/YoLLaVA/) `neurips'24`: personalized mllm for text generation
